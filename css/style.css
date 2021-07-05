@@ -1,6 +1,42 @@
 body{
     font-family: 'Josefin Sans', sans-serif;
 }
+section{
+    display: flex;
+    margin-left:50px;
+    padding-left:30px;
+}
+h1{
+    font-size: 3em;
+    font-weight: bold;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+    padding-
+}
 .half-width{
-    display:flex;
+  width: 50%;
+}
+.half-width img{
+    width: 100%;
+}
+#color{
+    color:orange;
+}
+.top-left{
+    padding-top: 50px;
+}
+.top-right-image{
+margin-left:290px;
+}
+.order-button{
+    text-decoration: none;
+    padding:17px 20px;
+    background-image:linear-gradient(to right, tomato, orange);
+    color:honeydew;
+    border-radius: 40px;
+    font-weight:500;
+    text-shadow: black;
+    margin-top:30px;
+    display:inline-block;
+
 }
