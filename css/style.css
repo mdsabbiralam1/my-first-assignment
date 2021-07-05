@@ -11,7 +11,7 @@ h1{
     font-weight: bold;
     padding-bottom: 0%;
     margin-bottom: 0%;
-    padding-
+    padding-top:0px;
 }
 .half-width{
   width: 50%;
@@ -39,4 +39,15 @@ margin-left:290px;
     margin-top:30px;
     display:inline-block;
 
+}
+#my-pic{
+    width:200%;
+}
+.about{
+    margin-left:350px;
+    margin-right:300px;
+    padding-top:50px;
+}
+#align{
+    text-align:center;
 }
