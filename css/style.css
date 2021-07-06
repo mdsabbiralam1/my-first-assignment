@@ -113,7 +113,7 @@ position: justify;
     box-shadow: 10px 10px 40px gray;
     padding-left: 20%;
     display: flex;
-    magin-top:100px;
+    margin-top:100px;
     margin-left: 5%;
     margin-right: 5%;
 }
@@ -125,7 +125,7 @@ position: justify;
     padding-right: 30px;
 }
 .likes{
-    text-align:right;
+    padding-left: 200px;
 }
 footer{
     text-align: center;
