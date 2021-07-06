@@ -72,3 +72,10 @@ margin-left:290px;
     padding-right: 200px;
     padding-bottom:30px;
 }
+.food-iteam{
+    display: flex;
+}
+.box_{
+    box-shadow: 10px 10px gray;
+    display: flex;
+}
