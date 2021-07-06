@@ -65,3 +65,10 @@ margin-left:290px;
     background-size: cover;
     height: 400px;
 }
+#my-recipies{
+    display:block;
+    text-align:center;
+    padding-left:200px ;
+    padding-right: 200px;
+    padding-bottom:30px;
+}
