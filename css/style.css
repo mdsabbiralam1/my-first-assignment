@@ -74,8 +74,38 @@ margin-left:290px;
 }
 .food-iteam{
     display: flex;
+    padding-right: 10px;
+    margin-left: 10px;
 }
 .box_{
-    box-shadow: 10px 10px gray;
     display: flex;
+}
+.box1{
+    box-shadow: 12px 12px 40px 1px rgba(0, 0, 255, .2);
+    width:25%;
+    margin-left:8%;
+    border-radius: 20px;
+    
+}
+.box2{
+    box-shadow: 12px 12px 40px 1px rgba(0, 0, 255, .2);
+    width:25%;
+    margin-left:8%;
+    border-radius: 20px;
+}
+.box3{
+    box-shadow: 12px 12px 40px 1px rgba(0, 0, 255, .2);
+    width:25%;
+    margin-left:8%;
+    border-radius: 20px;
+}
+#biryani-img{
+position: justify;
+}
+.img12{
+    width:100%;
+    border-radius: 20px;
+}
+#fanbase{
+    
 }
